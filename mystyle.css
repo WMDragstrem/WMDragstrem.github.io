@@ -3,7 +3,9 @@ body {
   font-family: comic sans MS;
   text-align: center
 
-
+}
+a {
+    color: lime;
 }
 p{
     color: lime;
