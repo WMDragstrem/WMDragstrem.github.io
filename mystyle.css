@@ -1,13 +1,14 @@
 body {
-  background-color: black;
+  background-color: indigo;
   font-family: comic sans MS;
   text-align: center
 
+
 }
 p{
-    color: white;
+    color: lime;
 }
 h1 {
-  color: white;
+  color: lime;
   margin-left: 20px;
 }
